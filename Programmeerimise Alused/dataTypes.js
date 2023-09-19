@@ -42,3 +42,6 @@ console.log(parseInt(100.8))
 
 // parseFloat convertimine koma arvuga
 console.log(parseFloat('100.3'))
+
+// Mathematical operators and rounding
+
