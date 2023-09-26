@@ -13,8 +13,8 @@ result = Math.PI
 result = Math.round(100.8)
 
 // Kodune ylesanne
-let value = 100.6 // ymarda allapoole kuidas?
+let value1 = Math.floor(100.6) // ymarda allapoole kuidas?
 
-let value2 = 100.3 // ymarda yles
+let value2 = Math.ceil(100.3) // ymarda yles
 
 console.log(result)
